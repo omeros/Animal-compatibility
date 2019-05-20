@@ -12,7 +12,7 @@
   <input type="radio" onclick="if(this.checked){myFunction1_4()}"  name="colors" id="1_4">4<br>        
 </form>
 
-<form>
+
 
 <form>
   2.The second question will be here<br>
