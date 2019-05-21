@@ -185,252 +185,252 @@ function myFunction2_4()
 
 function myFunction3_1()
 {
-   answered[1]=1;
+   answered[2]=1;
    document.write(answered[0]);
 }
 function myFunction3_2()
 {
-   answered[1]=2;
+   answered[2]=2;
    document.write(answered[0]);
 }
 function myFunction3_3()
 {
-   answered[1]=3;
+   answered[2]=3;
    document.write(answered[0]);
 }
 function myFunction3_4()
 {
-   answered[1]=4;
+   answered[2]=4;
    document.write(answered[0]);
 }
 
 function myFunction4_1()
 {
-   answered[1]=1;
+   answered[3]=1;
    document.write(answered[0]);
 }
 function myFunction4_2()
 {
-   answered[1]=2;
+   answered[3]=2;
    document.write(answered[0]);
 }
 function myFunction4_3()
 {
-   answered[1]=3;
+   answered[3]=3;
    document.write(answered[0]);
 }
 function myFunction4_4()
 {
-   answered[1]=4;
+   answered[3]=4;
    document.write(answered[0]);
 }
 
 function myFunction5_1()
 {
-   answered[1]=1;
+   answered[4]=1;
    document.write(answered[0]);
 }
 function myFunction5_2()
 {
-   answered[1]=2;
+   answered[4]=2;
    document.write(answered[0]);
 }
 function myFunction5_3()
 {
-   answered[1]=3;
+   answered[4]=3;
    document.write(answered[0]);
 }
 function myFunction5_4()
 {
-   answered[1]=4;
+   answered[4]=4;
    document.write(answered[0]);
 }
 
 function myFunction6_1()
 {
-   answered[1]=1;
+   answered[5]=1;
    document.write(answered[0]);
 }
 function myFunction6_2()
 {
-   answered[1]=2;
+   answered[5]=2;
    document.write(answered[0]);
 }
 function myFunction6_3()
 {
-   answered[1]=3;
+   answered[5]=3;
    document.write(answered[0]);
 }
 function myFunction6_4()
 {
-   answered[1]=4;
+   answered[5]=4;
    document.write(answered[0]);
 }
 
 function myFunction7_1()
 {
-   answered[1]=1;
+   answered[6]=1;
    document.write(answered[0]);
 }
 function myFunction7_2()
 {
-   answered[1]=2;
+   answered[6]=2;
    document.write(answered[0]);
 }
 function myFunction7_3()
 {
-   answered[1]=3;
+   answered[6]=3;
    document.write(answered[0]);
 }
 function myFunction7_4()
 {
-   answered[1]=4;
+   answered[6]=4;
    document.write(answered[0]);
 }
 
 function myFunction8_1()
 {
-   answered[1]=1;
+   answered[7]=1;
    document.write(answered[0]);
 }
 function myFunction8_2()
 {
-   answered[1]=2;
+   answered[7]=2;
    document.write(answered[0]);
 }
 function myFunction8_3()
 {
-   answered[1]=3;
+   answered[7]=3;
    document.write(answered[0]);
 }
 function myFunction8_4()
 {
-   answered[1]=4;
+   answered[7]=4;
    document.write(answered[0]);
 }
 
 function myFunction9_1()
 {
-   answered[1]=1;
+   answered[8]=1;
    document.write(answered[0]);
 }
 function myFunction9_2()
 {
-   answered[1]=2;
+   answered[8]=2;
    document.write(answered[0]);
 }
 function myFunction9_3()
 {
-   answered[1]=3;
+   answered[8]=3;
    document.write(answered[0]);
 }
 function myFunction9_4()
 {
-   answered[1]=4;
+   answered[8]=4;
    document.write(answered[0]);
 }
 
 function myFunction10_1()
 {
-   answered[1]=1;
+   answered[9]=1;
    document.write(answered[0]);
 }
 function myFunction10_2()
 {
-   answered[1]=2;
+   answered[9]=2;
    document.write(answered[0]);
 }
 function myFunction10_3()
 {
-   answered[1]=3;
+   answered[9]=3;
    document.write(answered[0]);
 }
 function myFunction10_4()
 {
-   answered[1]=4;
+   answered[9]=4;
    document.write(answered[0]);
 }
 function myFunction11_1()
 {
-   answered[1]=1;
+   answered[10]=1;
    document.write(answered[0]);
 }
 function myFunction11_2()
 {
-   answered[1]=2;
+   answered[10]=2;
    document.write(answered[0]);
 }
 function myFunction11_3()
 {
-   answered[1]=3;
+   answered[10]=3;
    document.write(answered[0]);
 }
 function myFunction11_4()
 {
-   answered[1]=4;
+   answered[10]=4;
    document.write(answered[0]);
 }
 
 function myFunction12_1()
 {
-   answered[1]=1;
+   answered[11]=1;
    document.write(answered[0]);
 }
 function myFunction12_2()
 {
-   answered[1]=2;
+   answered[11]=2;
    document.write(answered[0]);
 }
 function myFunction12_3()
 {
-   answered[1]=3;
+   answered[11]=3;
    document.write(answered[0]);
 }
 function myFunction12_4()
 {
-   answered[1]=4;
+   answered[11]=4;
    document.write(answered[0]);
 }
 
 function myFunction13_1()
 {
-   answered[1]=1;
+   answered[12]=1;
    document.write(answered[0]);
 }
 function myFunction13_2()
 {
-   answered[1]=2;
+   answered[12]=2;
    document.write(answered[0]);
 }
 function myFunction13_3()
 {
-   answered[1]=3;
+   answered[12]=3;
    document.write(answered[0]);
 }
 function myFunction13_4()
 {
-   answered[1]=4;
+   answered[12]=4;
    document.write(answered[0]);
 }
 
 function myFunction14_1()
 {
-   answered[1]=1;
+   answered[13]=1;
    document.write(answered[0]);
 }
 function myFunction14_2()
 {
-   answered[1]=2;
+   answered[13]=2;
    document.write(answered[0]);
 }
 function myFunction14_3()
 {
-   answered[1]=3;
+   answered[13]=3;
    document.write(answered[0]);
 }
 function myFunction14_4()
 {
-   answered[1]=4;
+   answered[13]=4;
    document.write(answered[0]);
 }
 </script>
